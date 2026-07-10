@@ -146,5 +146,3 @@ CTIA. (2023). Messaging principles and best practices. CTIA - The Wireless Assoc
 Federal Communications Commission. (2023). TCPA compliance guide. FCC. https://www.fcc.gov/
 Federal Trade Commission. (2023). CAN-SPAM Act: A compliance guide for business. FTC. https://www.ftc.gov/
 Office of the Attorney General, California Department of Justice. (2023). California Consumer Privacy Act (CCPA). State of California. https://oag.ca.gov/privacy/ccpa
-[I am 92% confident in this response]
-<img width="451" height="689" alt="image" src="https://github.com/user-attachments/assets/205d8348-94f3-4148-a8bd-d61694cd96f8" />
