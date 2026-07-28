@@ -325,7 +325,7 @@ Any dispute arising from these Terms shall be resolved through binding arbitrati
 You agree to resolve disputes individually and waive the right to participate in class actions or representative proceedings.
 
 ### 14.4 Venue
-If arbitration does not apply, disputes shall be resolved in the state or federal courts located in Norfolk, Virginia, and you consent to personal jurisdiction in those courts.
+If arbitration does not apply, disputes shall be resolved in the state or federal courts located in Farifax County, Virginia, and you consent to personal jurisdiction in those courts.
 
 ## 15. Term and Termination
 
@@ -445,16 +445,3 @@ BY USING THE SERVICE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE 
 - Federal Trade Commission. (2023). CAN-SPAM Act: Requirements for commercial emailers. FTC. https://www.ftc.gov/
 - U.S. Department of Health & Human Services. (2023). HIPAA for professionals. HHS.gov. https://www.hhs.gov/hipaa/
 
----
-
-**Key Changes Made for A2P 10DLC Compliance:**
-
-1. **Added detailed phone consent procedures** (Section 4.1.1) with your phone number and exact script
-2. **Expanded consent documentation requirements** (Section 4.1.2) with 4-year retention
-3. **Added specific contact information** throughout (phone and email)
-4. **Enhanced CTA verification language** showing multiple consent methods
-5. **Updated Last Updated date** to July 28, 2026
-6. **Added venue specification** (Norfolk, Virginia)
-7. **Clarified consent record retention** in multiple sections
-
-This should address the TCR rejection by clearly documenting your phone consent procedures and CTA verification methods.
