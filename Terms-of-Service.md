@@ -3,7 +3,8 @@
 **Last Updated:** 28 July 2026
 
 ## 1. Acceptance of Terms
-Welcome to FluentasAI, operated by MicroHealth LLC ("MicroHealth," "we," "us," or "our"). By accessing or using the FluentasAI platform at https://ai.microhealthllc.com/ (the "Service," "Platform," or "Website"), including our SMS messaging capabilities (Send and SignFlow features), you ("User," "you," or "your") agree to be bound by these Terms of Service ("Terms," "Agreement," or "TOS"). 
+Welcome to FluentasAI, operated by MicroHealth LLC ("MicroHealth," "we," "us," or "our"). By accessing or using the FluentasAI platform at https://ai.microhealthllc.com/ (the "Service," "Platform," or "Website"), including our SMS messaging capabilities (Send and SignFlow features), you ("User," "you," or "your") agree to be bound by these Terms of Service ("Terms," "Agreement," or "TOS").  This covers 2 features to send a one time passcode to decrypt a document sent by FluentasAI Send or perform document signatures with a one time passcode with FluentasAI Signflow.
+
 
 **IF YOU DO NOT AGREE TO THESE TERMS, DO NOT USE THE SERVICE.**
 
