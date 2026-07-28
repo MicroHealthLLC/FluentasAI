@@ -1,15 +1,12 @@
-I'll help you create an updated Privacy Policy that aligns with the Terms of Service and demonstrates A2P 10DLC compliance. Based on the external data and your requirements, here's the comprehensive updated version:
 
----
-
-# **Privacy Policy for FluentasAI SMS Services**
+# **Privacy Policy for FluentasAI SMS Services*
 
 **Effective Date:** July 10, 2026  
 **Last Updated:** July 28, 2026
 
 ## 1. Introduction
 
-MicroHealth LLC ("MicroHealth," "we," "us," or "our") operates the FluentasAI platform accessible at https://ai.microhealthllc.com/ (the "Website," "Platform," or "Service"). This Privacy Policy describes how we collect, use, disclose, and protect information when you use our SMS messaging capabilities, including our Send and SignFlow features, in full compliance with A2P 10DLC (Application-to-Person 10-Digit Long Code) regulations and applicable privacy laws.
+MicroHealth LLC ("MicroHealth," "we," "us," or "our") operates the FluentasAI platform accessible at https://ai.microhealthllc.com/ (the "Website," "Platform," or "Service"). This Privacy Policy describes how we collect, use, disclose, and protect information when you use our SMS messaging capabilities, including our Send and SignFlow features, in full compliance with A2P 10DLC (Application-to-Person 10-Digit Long Code) regulations and applicable privacy laws.  This covers 2 features to send a one time passcode to decrypt a document sent by FluentasAI Send or perform document signatures with a one time passcode with FluentasAI Signflow.
 
 **By using our SMS services, you acknowledge that you have read, understood, and agree to this Privacy Policy and our Terms of Service.**
 
@@ -42,7 +39,7 @@ In compliance with A2P 10DLC requirements, we maintain detailed records includin
 - Date and time of consent
 - Method of consent collection (form, phone, app, website)
 - Agent identification number (for phone consent)
-- Campaign description and disclosed message frequency
+- Campaign description and disclosed message frequency which is event based
 - Confirmation status and any subsequent opt-out requests
 - **Retention period: Minimum 4 years from consent date or last message sent**
 
@@ -207,7 +204,7 @@ We implement industry-standard security measures including:
 ## 10. SMS Messaging Fees and Frequency
 
 - **Standard message and data rates** may apply (charged by your mobile carrier)
-- **Message frequency varies** by campaign (disclosed at opt-in)
+- **Message frequency varies** by campaign as it is event based for sending a large file attachment or requesting document signature both to decrypt documents.
 - **Carrier fees** are your responsibility
 - **Unlimited plans** may not cover all messages
 - Contact your mobile carrier for pricing details
@@ -295,20 +292,3 @@ This Privacy Policy complies with:
 - Office of the Attorney General, California Department of Justice. (2023). *California Consumer Privacy Act (CCPA)*. State of California. https://oag.ca.gov/privacy/ccpa
 - U.S. Department of Health & Human Services. (2023). *HIPAA for professionals*. HHS.gov. https://www.hhs.gov/hipaa/
 - NIST. (2023). *Special Publication 800-63-3: Digital Identity Guidelines*. National Institute of Standards and Technology. https://pages.nist.gov/800-63-3/
-
----
-
-**Key Updates Made for A2P 10DLC Compliance:**
-
-1. **Added detailed consent collection methods** (Section 2.3, 3.1, 5.1)
-2. **Documented phone consent procedures** with your phone number and script (Section 5.2)
-3. **Specified 4-year retention period** for consent records (Section 2.3, 7)
-4. **Enhanced CTA verification language** showing multiple consent methods
-5. **Added comprehensive contact information** throughout (phone and email)
-6. **Included opt-out procedures** with 24-hour processing (Section 8.1)
-7. **Updated Last Updated date** to July 28, 2026
-8. **Added specific location** (Norfolk, Virginia)
-9. **Cross-referenced Terms of Service** for consistency
-10. **Enhanced security and compliance sections** (Sections 9, 17)
-
-This Privacy Policy now fully aligns with your updated Terms of Service and provides clear documentation of your A2P 10DLC compliance procedures, which should address the TCR rejection issues.
