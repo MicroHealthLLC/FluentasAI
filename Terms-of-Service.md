@@ -1,7 +1,3 @@
-I'll help you update your Terms of Service to address the A2P 10DLC CTA verification issues. Here's the updated policy with enhanced consent documentation sections:
-
----
-
 **Terms of Service for FluentasAI**  
 **Effective Date:** 10 July 2026  
 **Last Updated:** 28 July 2026
