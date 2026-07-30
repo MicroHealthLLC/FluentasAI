@@ -1,317 +1,247 @@
-# MicroHealth LLC Employee SMS Consent Form
+MicroHealth LLC Employee SMS Consent Form
+Express Written Consent for SMS Communications (A2P 10DLC)
+Employee Information
+Full Name: ___________________________________________
 
-## Express Written Consent for SMS Communications (A2P 10DLC)
+Employee ID: ___________________________________________
 
----
+Department: ___________________________________________
 
-### Employee Information
+Mobile Phone Number: (__) -
 
-**Full Name:** ___________________________________________
+Email Address: ___________________________________________
 
-**Employee ID:** ___________________________________________
+Date: ___________________________________________
 
-**Department:** ___________________________________________
-
-**Mobile Phone Number:** (______) ______-__________
-
-**Email Address:** ___________________________________________
-
-**Date:** ___________________________________________
-
----
-
-## Purpose of SMS Communications
-
+Purpose of SMS Communications
 MicroHealth LLC ("MicroHealth," "we," "us," or "our") uses FluentasAI, an AI-powered platform, to send SMS text messages to employees for specific business purposes through our A2P 10DLC compliant messaging system.
 
----
-
-## FluentasAI Features Requiring Your Consent
-
+FluentasAI Features Requiring Your Consent
 Please indicate which SMS services you consent to receive by checking the appropriate boxes below:
 
-### ☐ FluentasAI Send - Document Access & Security
+☐ FluentasAI Send - Document Access & Security
+Purpose: Receive one-time passcodes (OTP) to securely decrypt and access documents sent to you via FluentasAI Send.
 
-**Purpose:** Receive one-time passcodes (OTP) to securely decrypt and access documents sent to you via FluentasAI Send.
+Message Frequency: Event-based only. You will receive SMS messages only when:
 
-**Message Frequency:** Event-based only. You will receive SMS messages only when:
-- A secure document is sent to you requiring decryption
-- You request a new passcode for document access
-- A document access link is about to expire (reminder)
+A secure document is sent to you requiring decryption
+You request a new passcode for document access
+A document access link is about to expire (reminder)
+Estimated Volume: 1-2 messages per document event, depending on access attempts and reminders
 
-**Estimated Volume:** 1-2 messages per document event, depending on access attempts and reminders
+Message Examples:
 
-**Message Examples:**
-- FluentasAI: Your passcode for "{{file_name}}" is: {{passcode}} Reply "STOP", "UNSUBSCRIBE", "CANCEL", "END", or "QUIT" to any SMS message from MicroHealth
+FluentasAI: Your passcode for "{{file_name}}" is: {{passcode}} Reply "STOP", "UNSUBSCRIBE", "CANCEL", "END", or "QUIT" to any SMS message from MicroHealth
+☐ FluentasAI SignFlow - Digital Signatures
+Purpose: Receive one-time passcodes (OTP) to authenticate and complete digital document signatures via FluentasAI SignFlow.
 
----
+Message Frequency: Event-based only. You will receive SMS messages only when:
 
-### ☐ FluentasAI SignFlow - Digital Signatures
+A document requires your digital signature
+You initiate the signature process and need authentication
+A signature request is pending and requires action (reminder)
+A signature deadline is approaching
+Estimated Volume: 1-2 messages per signature event, depending on authentication attempts and reminders
 
-**Purpose:** Receive one-time passcodes (OTP) to authenticate and complete digital document signatures via FluentasAI SignFlow.
+Message Examples:
 
-**Message Frequency:** Event-based only. You will receive SMS messages only when:
-- A document requires your digital signature
-- You initiate the signature process and need authentication
-- A signature request is pending and requires action (reminder)
-- A signature deadline is approaching
-
-**Estimated Volume:** 1-2 messages per signature event, depending on authentication attempts and reminders
-
-**Message Examples:**
-- FluentasAI: Your passcode for "{{file_name}}" is: {{passcode}} Reply "STOP", "UNSUBSCRIBE", "CANCEL", "END", or "QUIT" to any SMS message from MicroHealth
-
----
-
-## Understanding Event-Based Messaging
-
-**What does "event-based" mean?**
+FluentasAI: Your passcode for "{{file_name}}" is: {{passcode}} Reply "STOP", "UNSUBSCRIBE", "CANCEL", "END", or "QUIT" to any SMS message from MicroHealth
+Understanding Event-Based Messaging
+What does "event-based" mean?
 
 Event-based messaging means you will ONLY receive SMS messages when a specific action or event occurs that requires your attention. We do NOT send:
-- Regular scheduled messages
-- Marketing or promotional content
-- Bulk announcements (unless you opt-in to General Communications)
 
-**You are in control:** Messages are triggered only by actions relevant to your work, such as receiving a secure document or being asked to sign a document.
+Regular scheduled messages
+Marketing or promotional content
+Bulk announcements (unless you opt-in to General Communications)
+You are in control: Messages are triggered only by actions relevant to your work, such as receiving a secure document or being asked to sign a document.
 
----
+Message & Data Rates
+Standard message and data rates may apply as determined by your mobile carrier
+MicroHealth is not responsible for any charges from your carrier
+Messages are sent via A2P 10DLC compliant short codes and 10-digit long codes
+Service is available on major U.S. carriers (AT&T, Verizon, T-Mobile, etc.)
+Your Rights: Opt-Out Instructions
+You have the right to withdraw your consent at ANY TIME using any of these methods:
+Method 1: Text Reply (Instant)
+Reply "STOP", "UNSUBSCRIBE", "CANCEL", "END", or "QUIT" to any SMS message from MicroHealth
 
-## Message & Data Rates
+What happens: You will receive a confirmation message and be immediately removed from ALL SMS communications.
 
-- **Standard message and data rates may apply** as determined by your mobile carrier
-- MicroHealth is not responsible for any charges from your carrier
-- Messages are sent via A2P 10DLC compliant short codes and 10-digit long codes
-- Service is available on major U.S. carriers (AT&T, Verizon, T-Mobile, etc.)
+Method 2: Phone
+Call our support line at (855) 294-3547
 
----
+What to say: "I want to opt-out of SMS messages" and provide your mobile number
 
-## Your Rights: Opt-Out Instructions
+Method 3: Email
+Send an email to support@microhealthllc.com
 
-### You have the right to withdraw your consent at ANY TIME using any of these methods:
+Subject line: "SMS Opt-Out Request"
+Include: Your full name, employee ID, and mobile phone number
 
-#### **Method 1: Text Reply (Instant)**
-Reply **"STOP"**, **"UNSUBSCRIBE"**, **"CANCEL"**, **"END"**, or **"QUIT"** to any SMS message from MicroHealth
-
-**What happens:** You will receive a confirmation message and be immediately removed from ALL SMS communications.
-
-#### **Method 2: Phone**
-Call our support line at **(855) 294-3547**
-
-**What to say:** "I want to opt-out of SMS messages" and provide your mobile number
-
-#### **Method 3: Email**
-Send an email to **support@microhealthllc.com**
-
-**Subject line:** "SMS Opt-Out Request"  
-**Include:** Your full name, employee ID, and mobile phone number
-
-#### **Method 4: Written Request**
+Method 4: Written Request
 Submit a written request to or stop by the office:
 
-**MicroHealth LLC**  
-Attn: SMS Opt-Out Request  
-8229 Boone Boulevard, Suite 500  
+MicroHealth LLC
+Attn: SMS Opt-Out Request
+8229 Boone Boulevard, Suite 500
 Vienna, VA 22182
 
----
+Important Information About Opting Out
+✓ Processing Time: Opt-out requests are honored within 24 hours (usually immediate for text replies)
 
-## Important Information About Opting Out
+✓ Selective Opt-Out: You may opt-out of specific features (Send OR SignFlow) by contacting us at (855) 294-3547 or support@microhealthllc.com
 
-✓ **Processing Time:** Opt-out requests are honored within 24 hours (usually immediate for text replies)
+✓ Impact on Work: Opting out may affect your ability to:
 
-✓ **Selective Opt-Out:** You may opt-out of specific features (Send OR SignFlow) by contacting us at (855) 294-3547 or support@microhealthllc.com
+Access secure documents sent via FluentasAI Send
+Complete digital signatures via FluentasAI SignFlow
+Receive time-sensitive work notifications
+✓ Alternative Methods: If you opt-out, you will receive critical communications through email or other approved channels
 
-✓ **Impact on Work:** Opting out may affect your ability to:
-  - Access secure documents sent via FluentasAI Send
-  - Complete digital signatures via FluentasAI SignFlow
-  - Receive time-sensitive work notifications
+✓ No Penalty: Opting out will NOT affect your employment status or standing with MicroHealth
 
-✓ **Alternative Methods:** If you opt-out, you will receive critical communications through email or other approved channels
+✓ Re-Consent: You may opt back in at any time by submitting a new consent form
 
-✓ **No Penalty:** Opting out will NOT affect your employment status or standing with MicroHealth
+Help & Support
+Need Assistance?
+Reply "HELP" to any message for immediate assistance, or contact us:
 
-✓ **Re-Consent:** You may opt back in at any time by submitting a new consent form
-
----
-
-## Help & Support
-
-### Need Assistance?
-
-Reply **"HELP"** to any message for immediate assistance, or contact us:
-
-- **Phone:** (855) 294-3547 (Monday-Friday, 8 AM - 6 PM ET)
-- **Email:** support@microhealthllc.com
-- **Website:** https://www.microhealthllc.com
-
----
-
-## A2P 10DLC Compliance & Regulatory Information
-
+Phone: (855) 294-3547 (Monday-Friday, 8 AM - 6 PM ET)
+Email: support@microhealthllc.com
+Website: https://www.microhealthllc.com
+A2P 10DLC Compliance & Regulatory Information
 This SMS program complies with:
 
-✓ **TCPA (Telephone Consumer Protection Act)** - Federal regulations governing automated communications
+✓ TCPA (Telephone Consumer Protection Act) - Federal regulations governing automated communications
 
-✓ **CTIA Messaging Principles** - Industry best practices for mobile messaging
+✓ CTIA Messaging Principles - Industry best practices for mobile messaging
 
-✓ **A2P 10DLC Standards** - Application-to-Person messaging via 10-digit long codes with carrier registration
+✓ A2P 10DLC Standards - Application-to-Person messaging via 10-digit long codes with carrier registration
 
-✓ **CAN-SPAM Act** - Requirements for commercial electronic messages
+✓ CAN-SPAM Act - Requirements for commercial electronic messages
 
-✓ **Carrier Guidelines** - AT&T, Verizon, T-Mobile messaging policies
+✓ Carrier Guidelines - AT&T, Verizon, T-Mobile messaging policies
 
-**Campaign Registration:** All MicroHealth SMS campaigns are registered with The Campaign Registry (TCR) and approved by mobile carriers.
+Campaign Registration: All MicroHealth SMS campaigns are registered with The Campaign Registry (TCR) and approved by mobile carriers.
 
----
-
-## Terms and Conditions
-
+Terms and Conditions
 By providing consent below, you acknowledge and agree that:
 
-- [ ] I have read and understand this entire consent form
-- [ ] I have reviewed the FluentasAI Terms of Service at https://ai.microhealthllc.com/terms
-- [ ] The mobile phone number I provided is my personal number and I am authorized to receive SMS messages at this number
-- [ ] I understand that message and data rates may apply based on my carrier plan
-- [ ] I understand the message frequency is event-based and will vary based on document and signature activities
-- [ ] I can opt-out at ANY TIME by replying "STOP" or using the methods listed above
-- [ ] I understand MicroHealth will honor my opt-out request within 24 hours
-- [ ] I understand that opting out may impact my ability to access secure documents and complete digital signatures
-- [ ] This consent is completely voluntary and does not affect my employment status
-- [ ] MicroHealth will retain my consent records for a minimum of 4 years per regulatory requirements
-- [ ] I can contact MicroHealth at (855) 294-3547 or support@microhealthllc.com with questions
-
----
-
-## Privacy & Data Protection
-
+ I have read and understand this entire consent form
+ I have reviewed the FluentasAI Terms of Service at https://ai.microhealthllc.com/terms
+ The mobile phone number I provided is my personal number and I am authorized to receive SMS messages at this number
+ I understand that message and data rates may apply based on my carrier plan
+ I understand the message frequency is event-based and will vary based on document and signature activities
+ I can opt-out at ANY TIME by replying "STOP" or using the methods listed above
+ I understand MicroHealth will honor my opt-out request within 24 hours
+ I understand that opting out may impact my ability to access secure documents and complete digital signatures
+ This consent is completely voluntary and does not affect my employment status
+ MicroHealth will retain my consent records for a minimum of 4 years per regulatory requirements
+ I can contact MicroHealth at (855) 294-3547 or support@microhealthllc.com with questions
+Privacy & Data Protection
 Your mobile phone number and SMS communications are protected under:
 
-✓ **MicroHealth Privacy Policy** - Available at https://www.microhealthllc.com/privacy
+✓ MicroHealth Privacy Policy - Available at https://www.microhealthllc.com/privacy
 
-✓ **Data Security Measures:**
-  - Encrypted transmission of all messages
-  - Secure storage of consent records
-  - Limited access to authorized personnel only
-  - Regular security audits and compliance reviews
+✓ Data Security Measures:
 
-✓ **Your Data Rights:**
-  - Your phone number will NOT be shared with third parties for marketing
-  - You may request a copy of your consent records
-  - You may request deletion of your data (subject to 4-year retention requirement)
-  - Consent records are retained for 4 years minimum per TCPA requirements
+Encrypted transmission of all messages
+Secure storage of consent records
+Limited access to authorized personnel only
+Regular security audits and compliance reviews
+✓ Your Data Rights:
 
-✓ **One-Time Passcodes:**
-  - OTPs are single-use and expire after a short time period
-  - OTPs are randomly generated and cannot be reused
-  - Never share your OTP with anyone
+Your phone number will NOT be shared with third parties for marketing
+You may request a copy of your consent records
+You may request deletion of your data (subject to 4-year retention requirement)
+Consent records are retained for 4 years minimum per TCPA requirements
+✓ One-Time Passcodes:
 
----
+OTPs are single-use and expire after a short time period
+OTPs are randomly generated and cannot be reused
+Never share your OTP with anyone
+Employee Consent Declaration
+I hereby provide my express written consent to receive SMS text messages from MicroHealth LLC at the mobile phone number listed above for the purposes I have selected.
 
-## Employee Consent Declaration
+Selected Services (check all that apply):
+ FluentasAI Send - Document access one-time passcodes (event-based)
+ FluentasAI SignFlow - Digital signature one-time passcodes (event-based)
+Employee Signature
+Signature: ___________________________________________
 
-**I hereby provide my express written consent** to receive SMS text messages from MicroHealth LLC at the mobile phone number listed above for the purposes I have selected.
+Printed Name: ___________________________________________
 
-### Selected Services (check all that apply):
+Date: ___________________________________________
 
-- [ ] **FluentasAI Send** - Document access one-time passcodes (event-based)
-- [ ] **FluentasAI SignFlow** - Digital signature one-time passcodes (event-based)
+Time: ___________________________________________
 
----
-
-### Employee Signature
-
-**Signature:** ___________________________________________
-
-**Printed Name:** ___________________________________________
-
-**Date:** ___________________________________________
-
-**Time:** ___________________________________________
-
----
-
-### Consent Verification (Employee to initial)
-
+Consent Verification (Employee to initial)
 I confirm that:
 
-**______** I provided this consent voluntarily without coercion
+______ I provided this consent voluntarily without coercion
 
-**______** I understand the event-based nature of these messages
+______ I understand the event-based nature of these messages
 
-**______** I know how to opt-out at any time
+______ I know how to opt-out at any time
 
-**______** I understand the impact of opting out on document access and signatures
+______ I understand the impact of opting out on document access and signatures
 
----
+For HR/Administrative Use Only
+Processed By: ___________________________________________
 
-### For HR/Administrative Use Only
+HR Representative Name: ___________________________________________
 
-**Processed By:** ___________________________________________
+HR Representative Signature: ___________________________________________
 
-**HR Representative Name:** ___________________________________________
+Date Processed: ___________________________________________
 
-**HR Representative Signature:** ___________________________________________
+Time Processed: ___________________________________________
 
-**Date Processed:** ___________________________________________
+Consent Record ID: ___________________________________________
 
-**Time Processed:** ___________________________________________
+Campaign Registration ID: ___________________________________________
 
-**Consent Record ID:** ___________________________________________
+System Entry Confirmed: [ ] Yes [ ] No
 
-**Campaign Registration ID:** ___________________________________________
+Consent Method: [ ] Written Form [ ] Electronic [ ] Verbal (with recording)
 
-**System Entry Confirmed:** [ ] Yes [ ] No
+Retention Schedule: Retain until _____________ (Date + 4 years)
 
-**Consent Method:** [ ] Written Form [ ] Electronic [ ] Verbal (with recording)
-
-**Retention Schedule:** Retain until _____________ (Date + 4 years)
-
----
-
-## Contact Information
-
-**MicroHealth LLC**  
-8229 Boone Boulevard, Suite 500  
+Contact Information
+MicroHealth LLC
+8229 Boone Boulevard, Suite 500
 Vienna, VA 22182
 
-**Main Phone:** (855) 294-3547  
-**Support Email:** support@microhealthllc.com  
-**Website:** https://www.microhealthllc.com  
-**FluentasAI Platform:** https://ai.microhealthllc.com/
+Main Phone: (855) 294-3547
+Support Email: support@microhealthllc.com
+Website: https://www.microhealthllc.com
+FluentasAI Platform: https://ai.microhealthllc.com/
 
-**Business Hours:** Monday - Friday, 8:00 AM - 6:00 PM ET
+Business Hours: Monday - Friday, 8:00 AM - 6:00 PM ET
 
----
-
-## Frequently Asked Questions
-
-**Q: What if I only want to receive messages for document signatures but not document access?**  
+Frequently Asked Questions
+Q: What if I only want to receive messages for document signatures but not document access?
 A: You can selectively opt-in to only FluentasAI SignFlow. Simply check only that box on the consent form.
 
-**Q: Will I receive marketing messages?**  
+Q: Will I receive marketing messages?
 A: No. These are transactional, event-based messages only related to your work activities.
 
-**Q: What if I change my phone number?**  
+Q: What if I change my phone number?
 A: Contact HR immediately at HR@microhealthllc.com to update your information and submit a new consent form.
 
-**Q: Can I temporarily pause messages?**  
+Q: Can I temporarily pause messages?
 A: Yes. Contact support at (855) 294-3547 to discuss temporary suspension options.
 
-**Q: What if I accidentally opt-out?**  
+Q: What if I accidentally opt-out?
 A: You can opt back in by submitting a new consent form to HR or contacting support.
 
-**Q: Are these messages secure?**  
+Q: Are these messages secure?
 A: Yes. All messages are transmitted via encrypted channels and comply with security best practices.
 
----
+This consent form complies with the Telephone Consumer Protection Act (TCPA), CAN-SPAM Act, CTIA Messaging Principles and Best Practices, A2P 10DLC regulations, and carrier-specific requirements. Your consent is documented and retained in accordance with federal and state requirements for a minimum of 4 years.
 
-*This consent form complies with the Telephone Consumer Protection Act (TCPA), CAN-SPAM Act, CTIA Messaging Principles and Best Practices, A2P 10DLC regulations, and carrier-specific requirements. Your consent is documented and retained in accordance with federal and state requirements for a minimum of 4 years.*
-
-**Document Version:** 2.0  
-**Effective Date:** July 30, 2026  
-**Last Updated:** July 30, 2026  
-**Next Review Date:** July 30, 2027
-
-
-
-*[I am 96% confident in this response]*
+Document Version: 2.0
+Effective Date: July 30, 2026
+Last Updated: July 30, 2026
+Next Review Date: July 30, 2027
